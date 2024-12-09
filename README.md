@@ -1,5 +1,5 @@
 # esp32 over ssh
 
 ```bash
-make install
+sudo make install
 ```
